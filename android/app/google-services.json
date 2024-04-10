@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "230578105535",
+    "firebase_url": "https://esp32-interruptor-default-rtdb.firebaseio.com",
+    "project_id": "esp32-interruptor",
+    "storage_bucket": "esp32-interruptor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230578105535:android:a6545a9ceaf37ec9ac2a0a",
+        "android_client_info": {
+          "package_name": "com.example.cleanpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2nUUx665OWuwmvus1tN2ywFL2h69JO5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
